@@ -1,4 +1,4 @@
-import{A as vr,j as ul}from"./index-DnuEXfT1.js";/**
+import{A as vr,j as ul}from"./index-Bic_szaI.js";/**
  * @license
  * Copyright 2010-2026 Three.js Authors
  * SPDX-License-Identifier: MIT
